@@ -2,6 +2,6 @@
 
 
 ##  TS
-[安装](itms-services://?action=download-manifest&url=https://github.com/sliencess/TS/blob/master/install.plist)
+[安装](http://htmlpreview.github.io/?https://raw.githubusercontent.com/sliencess/TS/master/index.html)
 
-#### -在iPhone safari中打开
+#### -使用iPhone在safari中打开
