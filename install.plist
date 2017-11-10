@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>itms-services://?action=download-manifest&url=https://github.com/sliencess/TS/blob/master/spcyios.ipa</string>
+					<string>https://github.com/sliencess/TS/blob/master/spcyios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
